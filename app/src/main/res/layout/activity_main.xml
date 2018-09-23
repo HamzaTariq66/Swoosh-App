@@ -61,14 +61,14 @@
         tools:ignore="DuplicateIds" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/getStartedbtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
         android:layout_marginBottom="14dp"
         android:background="@drawable/swoosh_button"
-        android:layout_margin="10dp"
         android:text="Get Started"
         android:textColor="@color/colorAccent" />
 </RelativeLayout>
